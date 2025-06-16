@@ -4,7 +4,7 @@
 NoiseVision is an innovative vehicle detection system that uses an array of I2S microphones to detect and track vehicles across multiple lanes. The system combines audio processing with computer vision to provide real-time vehicle detection and license plate recognition.
 
 ## Demo
-https://github.com/pkheria7/NoiseVision/demo.mp4
+https://github.com/pkheria7/NoiseVision/blob/master/demo.mp4
 
 *Note: The demo video shows the system in action, demonstrating real-time vehicle detection and lane tracking using the microphone array.*
 
