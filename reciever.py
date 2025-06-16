@@ -1,6 +1,4 @@
 import cv2
-import requests
-import json
 import time
 from datetime import datetime
 import os
@@ -12,7 +10,6 @@ import easyocr
 from collections import deque
 import queue
 import pandas as pd
-from twilio.rest import Client
 from dotenv import load_dotenv
 
 # Load environment variables
